@@ -1,0 +1,17 @@
+body{ 
+    background-color: lightsteelblue;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    margin: 85px;
+}
+
+li{
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+h1{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+p { 
+    background-color: lightblue;
+} 

@@ -1,0 +1,19 @@
+body{ 
+    background-color: black;
+    color: white;
+    font-family: font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin: 65px;
+}
+
+li{
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+h1{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+p { 
+    color: black;
+    background-color: white;
+} 

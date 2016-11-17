@@ -1,0 +1,9 @@
+body{
+    background-color: #F5CCE8
+    color: #4B3B47
+}
+
+.extreme{
+    background-color: #ddbdf2
+    color: #2e3532
+}

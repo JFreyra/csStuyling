@@ -1,0 +1,68 @@
+@keyframes beatingHeader{
+     0%   {color: #FFFFFF;}
+     10%  {color: #FF0000;}
+     20%  {color: #FF0080;}
+     30%  {color: #FF00FF;}
+     40%  {color: #8000FF;}
+     50%  {color: #0000FF;}
+     60%  {color: #00FFFF;}
+     70%  {color: #00FF80;}
+     80%  {color: #80FF00;}
+     90%  {color: #FFFF00;}
+     100% {color: #FF8000;}
+}
+
+#head1 {
+    transition-property: background-color, color;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-in-out;
+    background-color: #F5CCE8;
+    color: #AAB5A8;
+}
+
+#head1:hover {
+    transition-property: background-color, color;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-in-out;
+    background-color: #ddbdf2;
+    color: black;   
+}
+
+h2{
+    animation: beatingHeader 5s linear infinite;
+    animation-direction: alternate-reverse;
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color: #F5CCE8;
+    color: #4B3B47;
+    margin: 85px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+li{
+    background-color: #ddbdf2;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.extreme{
+    background-color: #ddbdf2;
+    color: #2e3532;
+}
+
+.navzone{
+    background-color: #e6beae;
+}
+
+.content{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#tehlulz{
+    background-color: #f5cce8;
+}

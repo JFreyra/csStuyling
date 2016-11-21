@@ -1,0 +1,28 @@
+body{
+    background-color: #F5CCE8;
+    color: #4B3B47;
+    margin: 85px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+li{
+    background-color: #ddbdf2;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.extreme{
+    background-color: #ddbdf2;
+    color: #2e3532;
+}
+
+.navzone{
+    background-color: #e6beae;
+}
+
+.content{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#tehlulz{
+    background-color: #f5cce8;
+}
